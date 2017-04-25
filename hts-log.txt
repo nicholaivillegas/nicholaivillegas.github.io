@@ -1,0 +1,18 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 24 Apr 2017 14:25:01 at http://themes.khaitawng.com/Homane/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themes.khaitawng.com/Homane/index.html -O1 "C:\My Web Sites\homan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:25:53	Error: 	"Not Found" (404) at link themes.khaitawng.com/Homane/fonts/glyphicons-halflings-regular.eot (from themes.khaitawng.com/Homane/css/bootstrap.min.css)
+14:25:53	Error: 	"Not Found" (404) at link themes.khaitawng.com/Homane/fonts/glyphicons-halflings-regular.eot? (from themes.khaitawng.com/Homane/css/bootstrap.min.css)
+14:25:53	Error: 	"Not Found" (404) at link themes.khaitawng.com/Homane/fonts/glyphicons-halflings-regular.woff2 (from themes.khaitawng.com/Homane/css/bootstrap.min.css)
+14:25:53	Error: 	"Not Found" (404) at link themes.khaitawng.com/Homane/fonts/glyphicons-halflings-regular.woff (from themes.khaitawng.com/Homane/css/bootstrap.min.css)
+14:25:53	Error: 	"Not Found" (404) at link themes.khaitawng.com/Homane/fonts/glyphicons-halflings-regular.ttf (from themes.khaitawng.com/Homane/css/bootstrap.min.css)
+14:25:53	Error: 	"Not Found" (404) at link themes.khaitawng.com/Homane/fonts/glyphicons-halflings-regular.svg (from themes.khaitawng.com/Homane/css/bootstrap.min.css)
+14:26:16	Error: 	"Not Found" (404) at link themes.khaitawng.com/Homane/Popover requires tooltip.js (from themes.khaitawng.com/Homane/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.48-22 mirror complete in 1 minutes 15 seconds : 36 links scanned, 28 files written (1961330 bytes overall) [1971757 bytes received at 26290 bytes/sec]
+(7 errors, 0 warnings, 0 messages)
